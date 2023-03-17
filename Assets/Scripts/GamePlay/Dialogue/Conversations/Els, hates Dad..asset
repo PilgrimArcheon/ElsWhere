@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79423a9bbd2dc304cb0b83042dc01c64, type: 3}
+  m_Name: Els, hates Dad.
+  m_EditorClassIdentifier: 
+  sentences:
+  - actor: 1
+    actions: 0
+    sentence: 'Why do I have to always be alone???? '
+    voiceOver: {fileID: 8300000, guid: 5f099736a47126d48a53296bbe97a91a, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: 'I just want to have a mother and a father who has time for me.
+
+
+'
+    voiceOver: {fileID: 8300000, guid: 0235cf7f27567be4981f8f59b409f58b, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "I miss family time so much. \r"
+    voiceOver: {fileID: 8300000, guid: 12280a1c36b1c7a4b96bb1ac8c25eb81, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "And my dad hasn\u2019t been the same since my mother died. "
+    voiceOver: {fileID: 8300000, guid: 31d2bf49b1983b545bb36eefa7bd0bc4, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: He barely has my time most times.
+    voiceOver: {fileID: 8300000, guid: 61b65cbe456f7424b8b20e4e02eda8d4, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "I wish he died instead of mum because she always made time for me.
+      \r"
+    voiceOver: {fileID: 8300000, guid: ca0d4987f78fb9b4685ba41d4c898bc3, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: 'I wonder if I stage my kidnap he would even notice that I was gone. '
+    voiceOver: {fileID: 8300000, guid: 4c9e0bd371bd5b34dab6e219fc6dc3b1, type: 3}

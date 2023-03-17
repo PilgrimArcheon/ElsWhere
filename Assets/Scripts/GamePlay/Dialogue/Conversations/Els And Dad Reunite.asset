@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79423a9bbd2dc304cb0b83042dc01c64, type: 3}
+  m_Name: Els And Dad Reunite
+  m_EditorClassIdentifier: 
+  sentences:
+  - actor: 1
+    actions: 0
+    sentence: "Dad I\u2019m so sorry I didn\u2019t know what I was thinking."
+    voiceOver: {fileID: 8300000, guid: a67c5d5a0fc6cc54cbb9c89f867c525a, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "I shouldn\u2019t have put you in this situation."
+    voiceOver: {fileID: 8300000, guid: f832c73eaa3fd9741b6402c43764b45b, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "I\u2019m so sorry, Daddy."
+    voiceOver: {fileID: 8300000, guid: 997c73a1112e1364f86414bbba76b491, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: "I should have also listened to you and paid attention to you but you
+      must know that it is hard for me to also adapt to the fact that your mum is
+      gone. \r"
+    voiceOver: {fileID: 8300000, guid: d7559855ed6ab5844a13927ae87b9405, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "Dad I\u2019m so sorry I didn\u2019t think you were going through anything. "
+    voiceOver: {fileID: 8300000, guid: 2cc0d5af01636174ab1cc924c6da8c80, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: "Other\u2019s felt like you hated me because I  reminded you of her."
+    voiceOver: {fileID: 8300000, guid: 24c3079ba888fe94bb84b70211f49dd5, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: We must constantly have each others backs no matter how we feel personally.
+    voiceOver: {fileID: 8300000, guid: 24c3079ba888fe94bb84b70211f49dd5, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: Come on Dad. Let's get out of here.
+    voiceOver: {fileID: 8300000, guid: 24c3079ba888fe94bb84b70211f49dd5, type: 3}

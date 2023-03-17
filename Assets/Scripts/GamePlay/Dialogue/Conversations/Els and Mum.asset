@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79423a9bbd2dc304cb0b83042dc01c64, type: 3}
+  m_Name: Els and Mum
+  m_EditorClassIdentifier: 
+  sentences:
+  - actor: 1
+    actions: 0
+    sentence: "Oh mum I don\u2019t have a clue what to do about my hair and I have
+      just 30 minutes left till the bus is here. "
+    voiceOver: {fileID: 8300000, guid: 8f69160c5f75c8b42bfb8d625463d730, type: 3}
+  - actor: 1
+    actions: 1
+    sentence: "Can you help? \r"
+    voiceOver: {fileID: 8300000, guid: eb07b339dd776b442877e6faa995ba40, type: 3}
+  - actor: 0
+    actions: 1
+    sentence: Come here, sweetie.
+    voiceOver: {fileID: 8300000, guid: 67e6d538a71c5e347839c06d137ecfcb, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: 'Let me sort that out for you. '
+    voiceOver: {fileID: 8300000, guid: 325744925717315409ca4bf1e27e1f12, type: 3}
+  - actor: 0
+    actions: 1
+    sentence: 'You know you are beautiful in every way and you always have to make
+      people see that. '
+    voiceOver: {fileID: 8300000, guid: 9a0684423c2358a4d9e2f22b493a1f9e, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: 'You are beautiful inside and outside. '
+    voiceOver: {fileID: 8300000, guid: def58d09f8be820409f6ea9d93fc963b, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: I love you, Baby girl.
+    voiceOver: {fileID: 8300000, guid: 88da540f038d5d9439fad25294355589, type: 3}
+  - actor: 1
+    actions: 0
+    sentence: I love you too mum.
+    voiceOver: {fileID: 8300000, guid: 8befc2668d0833546922a794101af190, type: 3}

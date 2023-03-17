@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79423a9bbd2dc304cb0b83042dc01c64, type: 3}
+  m_Name: Dad, dog Dies.
+  m_EditorClassIdentifier: 
+  sentences:
+  - actor: 0
+    actions: 0
+    sentence: Oh... Smart.
+    voiceOver: {fileID: 8300000, guid: 2d369938544ae174eabf0545daf065a8, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: Not right now, what will happen when Els hears that you are dead.
+    voiceOver: {fileID: 8300000, guid: 02e76af36ce9fbf4da4d337597233c8b, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: She will be devastated.
+    voiceOver: {fileID: 8300000, guid: cc913f366ca7aa24988cf26a8115574e, type: 3}

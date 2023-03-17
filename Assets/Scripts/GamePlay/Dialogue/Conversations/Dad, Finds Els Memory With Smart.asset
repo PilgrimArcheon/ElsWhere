@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79423a9bbd2dc304cb0b83042dc01c64, type: 3}
+  m_Name: Dad, Finds Els Memory With Smart
+  m_EditorClassIdentifier: 
+  sentences:
+  - actor: 0
+    actions: 0
+    sentence: Oh so many memories, I feel like I have missed out on a lot of things.
+    voiceOver: {fileID: 8300000, guid: 5b2662e1436511c4f9bc3bcf31f3ac16, type: 3}
+  - actor: 0
+    actions: 0
+    sentence: I just want to hold my baby girl.
+    voiceOver: {fileID: 8300000, guid: e6529408abe2e42489d84babe893bf0c, type: 3}
